@@ -2,7 +2,9 @@
 
 [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 [Omi](https://github.com/NormTurtle)
+
 <!-- prettier-ignore-start -->
+
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
 - [aung thu gaming channel](https://github.com/trovel339)
 - [Adarsh Yadav](https://github.com/codebreaker0001)
@@ -109,7 +111,7 @@
 - [Gamapg](https://github.com/gamapg)
 - Balaji Sadanala
 - [Anastasiia Koba](https://github.com/anastasiia-koba)
-[Rivki Zohar](https://github.com/Rivki7)
+  [Rivki Zohar](https://github.com/Rivki7)
 - [Orit Perlman]
 - [anchit jain](https://github.com/anchit85426)
 - [RaeEE454](https://github.com/RaeEE454)
@@ -146,6 +148,7 @@
 - Tejas Chouhan
 - [Aasim Qureshi](https://github.com/itisaasim)
 - [Solmaz Arezoomandan](https://github.com/Soltechie)
+- [Suleman-Tasawar] (https://github.com/Suleman-Tasawar)
 - [Rohitha Yarlagadda](https://github.com/YRohitha)
 - [Piotr Awramiuk](https://github.com/portrecistajeden)
 - [Chinmay Bhalerao](https://github.com/ChinmayBH)
@@ -168,7 +171,7 @@
 - Sabya
 - Rio
 - Justin Valdez
-- Triparna Saha 
+- Triparna Saha
 - Megan Cooper (https://github.com/MegRCooper)
 - [Avishkaar](https://github.com/Avishkaar007)
 - [Derek Young](https://github.com/derekpyoung)
@@ -340,7 +343,7 @@
 - [Raj-101](https://github.com/Raj-101)
 - [MonBalogh](https://github.com/MonBalogh)
 - [Summer Babel](https://github.com/sumerbabel)
-- [Kunal Virk](https://github.com/kunalvirk) 
+- [Kunal Virk](https://github.com/kunalvirk)
 - [Subham Thapa](https://github.com/WhimsicalWizard)
 - just-now
 - [Shubh Panwala](https://github.com/shubhpanwala)
@@ -1790,4 +1793,4 @@
 - [Nivin](https://github.com/Nivin389)
 - [KuanChieh Lien](https://github.com/jazzpujols34)
 - AprilZhou
-- 
+-
